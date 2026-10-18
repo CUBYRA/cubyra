@@ -1,6 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="210" viewBox="0 0 720 210" role="img" aria-label="CUBYRA">
-  <rect width="720" height="210" rx="24" fill="#f2f1eb"/>
-  <path d="M101 35 160 69 160 137 101 171 42 137 42 69Z" fill="#1b6652"/>
-  <path d="M42 69 101 103 160 69M101 103V171" fill="none" stroke="#f2f1eb" stroke-width="5" stroke-linejoin="round"/>
-  <text x="196" y="122" fill="#1a221f" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="4">CUBYRA</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="210" viewBox="0 0 720 210" role="img" aria-labelledby="title desc">
+<title id="title">CUBYRA™</title><desc id="desc">Smart Specimen Identity — cemento e ciano</desc>
+<rect width="720" height="210" rx="24" fill="#07151D"/>
+<g transform="translate(38 14) scale(1.65)">
+<path d="M54 17 87 35 54 54 21 35Z" fill="#C8D5DE" stroke="#F1F6FA"/>
+<path d="m19 40 30 18v36L19 76Z" fill="#8CA1AF" stroke="#DDE7ED"/>
+<path d="M58 58 89 40v36L58 94Z" fill="#007B9B" stroke="#40DEFF" stroke-width="2"/>
+<path d="m63 61 22-13v4L63 65Z" fill="#30D9F7"/>
+</g>
+<text x="222" y="111" fill="#F1F6F8" font-family="Arial,sans-serif" font-weight="600" font-size="64" letter-spacing="6">CUBYRA</text>
+<text x="574" y="70" fill="#A6BDC9" font-family="Arial,sans-serif" font-size="18">TM</text>
+<text x="225" y="153" fill="#A6BDC9" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">SMART SPECIMEN IDENTITY</text>
 </svg>
