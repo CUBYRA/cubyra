@@ -9,21 +9,21 @@
   "apps": [
     {
       "packageName": "it.cubyra.service",
-      "versionCode": 13,
-      "versionName": "0.13.0-github",
-      "releaseTag": "v0.13.0-collaudo",
+      "versionCode": 14,
+      "versionName": "0.14.0-github",
+      "releaseTag": "v0.14.0-collaudo",
       "assetName": "CUBYRA-Service-debug.apk",
-      "sha256": "d813bd47b9c5d77d28d8ac6ae21ad2d6c9874adcdc6fdc362d359d7e1a9503b5",
-      "sizeBytes": 930362
+      "sha256": "0fd812c2174525b0a8a1fb245b1d5290d2b0e1a65409b6daa23c006eed77e803",
+      "sizeBytes": 937518
     },
     {
       "packageName": "it.cubyra.demo",
-      "versionCode": 13,
-      "versionName": "0.13.0-github",
-      "releaseTag": "v0.13.0-collaudo",
+      "versionCode": 14,
+      "versionName": "0.14.0-github",
+      "releaseTag": "v0.14.0-collaudo",
       "assetName": "CUBYRA-Demo-debug.apk",
-      "sha256": "c6bf027a6b89c6687e897fb57221e591ee770450b2ab9709c20994a486578f91",
-      "sizeBytes": 2477669
+      "sha256": "1a64d8369a5bc98e298f1754c0317e03e225808837e9a069fbe2b1fdf9fc3fbf",
+      "sizeBytes": 1325152
     }
   ]
 }
